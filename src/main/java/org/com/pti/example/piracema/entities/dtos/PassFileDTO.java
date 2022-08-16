@@ -19,5 +19,4 @@ public class PassFileDTO {
     @CsvBindByName(column = "registryDate")
     @CsvDate(value = "yyyy-MM-dd HH:mm:ss")
     private LocalDateTime registryDate;
-
 }

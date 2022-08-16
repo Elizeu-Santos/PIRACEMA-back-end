@@ -114,6 +114,4 @@ public class FishService {
         Fish fish = findById(id);
         fishRepository.delete(fish);
     }
-
-    
 }

@@ -86,5 +86,4 @@ public class PassController {
             return ResponseEntity.notFound().build();
         }
     }
-
 }

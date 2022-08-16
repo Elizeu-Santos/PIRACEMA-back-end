@@ -9,5 +9,4 @@ public class PiracemaApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(PiracemaApplication.class, args);
 	}
-
 }

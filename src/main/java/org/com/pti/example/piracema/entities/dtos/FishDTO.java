@@ -41,5 +41,4 @@ public class FishDTO {
     private String comments;
 
     private List<PassNoFishDTO> passes;
-
 }

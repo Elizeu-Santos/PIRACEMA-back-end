@@ -29,5 +29,4 @@ public class AntennaDTO {
     private List<PassNoAntennaDTO> passes;
 
     private List<StatusAntennaDTO> statusAntenna;
-
 }

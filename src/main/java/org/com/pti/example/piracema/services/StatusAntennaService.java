@@ -59,6 +59,3 @@ public class StatusAntennaService {
     public void save(StatusAntenna foundStatusAntenna) {
     }
 }
-
-
-

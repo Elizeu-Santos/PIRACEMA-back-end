@@ -14,6 +14,4 @@ public class StatusAntennaResponseDTO {
     private Boolean status;
 
     private AntennaDTO antenna;
-    
 }
-

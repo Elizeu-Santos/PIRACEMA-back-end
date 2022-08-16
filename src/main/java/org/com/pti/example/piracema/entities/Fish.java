@@ -81,5 +81,4 @@ public class Fish {
 
     @PreUpdate
     public void update(){updatedAt = LocalDateTime.now(); }
-
 }

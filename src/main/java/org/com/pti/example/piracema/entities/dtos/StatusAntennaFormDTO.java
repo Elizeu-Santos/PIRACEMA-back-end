@@ -19,5 +19,4 @@ public class StatusAntennaFormDTO {
     private LocalDateTime statusChangeDate;
 
     private Long antennaId;
-
 }

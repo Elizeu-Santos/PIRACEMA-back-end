@@ -7,5 +7,4 @@ import org.com.pti.example.piracema.entities.Pass;
 
 @Repository
 public interface PassRepository extends JpaRepository<Pass, Long> {
-
 }

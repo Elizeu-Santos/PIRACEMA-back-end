@@ -88,5 +88,4 @@ public class AntennaController {
             return ResponseEntity.notFound().build();
         }
     }
-
 }

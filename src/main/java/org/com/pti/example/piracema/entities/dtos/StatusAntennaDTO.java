@@ -22,5 +22,4 @@ public class StatusAntennaDTO {
     private LocalDateTime statusChangeDate;
 
     private AntennaNoPassesDTO antenna;
-    
 }

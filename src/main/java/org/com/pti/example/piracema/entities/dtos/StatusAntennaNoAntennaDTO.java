@@ -18,6 +18,4 @@ public class StatusAntennaNoAntennaDTO {
     private Boolean status;
 
     private LocalDateTime statusChangeDate;
-
-    
 }

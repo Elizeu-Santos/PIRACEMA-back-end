@@ -92,5 +92,4 @@ public class PassService {
         Pass pass = findById(id);
         passRepository.delete(pass);
     }
-
 }
