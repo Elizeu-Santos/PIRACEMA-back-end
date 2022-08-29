@@ -19,3 +19,8 @@ Para realizar o monitoramento dos peixes no canal deste projeto, existem 5 anten
 - [PostgreSQL](https://www.postgresql.org/download/) - Banco de dados.
 
 - [JPA](https://hibernate.org/orm/) - Especificação do Java que dita como os Frameworks ORM devem ser implementados.
+
+### Equipe
+- [Elizeu da Silva Santos](https://www.linkedin.com/in/elizeusantoss/)
+- [Guilherme Cavalcanti Lopes](https://www.linkedin.com/in/guilherme-cavalcanti-lopes-037830214/)
+- [Gustavo Carvajal Yantaní]
