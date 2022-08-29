@@ -23,4 +23,7 @@ Para realizar o monitoramento dos peixes no canal deste projeto, existem 5 anten
 ### Equipe
 - [Elizeu da Silva Santos](https://www.linkedin.com/in/elizeusantoss/)
 - [Guilherme Cavalcanti Lopes](https://www.linkedin.com/in/guilherme-cavalcanti-lopes-037830214/)
-- [Gustavo Carvajal Yantaní]
+- Gustavo Carvajal Yantaní
+
+### Repositório do Front-end
+- [Click aqui](https://github.com/Elizeu-Santos/PTI-Piracema-front-end)
