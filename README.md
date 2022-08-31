@@ -1,4 +1,4 @@
-## Plataforma Web de monitoramento de peixes no canal Piracema
+## Plataforma Web de monitoramento de peixes
 
 ### Sobre
 A piracema é o período em que determinadas espécies de peixes enfrentam grandes jornadas rio acima a fim de garantir um local adequado para sua desova e alimentação. Durante a piracema, os peixes nadam contra a correnteza em cardumes, vencendo obstáculos naturais, como as cachoeiras, e também aqueles criados pelo homem, como barragens hidrelétricas. Algumas espécies nadam mais de dois mil quilômetros até alcançarem as nascentes, sendo uma viagem exaustiva, mas essencial para a reprodução.
